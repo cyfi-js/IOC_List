@@ -1,14 +1,1 @@
-host,ip,type,method,port,use_ssl,path
-www.trumpf-laser.biz, 185.82.160.112,http,POST,443,True,
-bkt.lt,136.230.98.254,tcp,syn,21,True,
-bkt.lt,82.135.146.107,tcp,syn,25,True,
-bkt.lt,82.135.146.107,tcp,syn,53,True,
-bkt.lt,82.135.146.107,tcp,syn,80,True,
-bkt.lt,82.135.146.107,tcp,syn,123,True,
-bkt.lt,82.135.146.107,tcp,syn,443,True,
-bkt.lt,82.135.146.107,tcp,syn,465,True,
-bkt.lt,82.135.146.107,tcp,syn,587,True,
-bkt.lt,82.135.146.107,tcp,syn,993,True,
-bkt.lt,82.135.146.107,tcp,syn,995,True,
-bkt.lt,82.135.146.107,tcp,syn,2222,True,
-bkt.lt,82.135.146.107,tcp,syn,10000,True,
+
